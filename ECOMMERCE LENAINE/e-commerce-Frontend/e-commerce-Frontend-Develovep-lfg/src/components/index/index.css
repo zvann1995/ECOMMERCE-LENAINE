@@ -1,0 +1,37 @@
+.titleCarousel{
+    font-style: italic;
+    
+}
+.titleCarousel-background{
+    background-color: rgb(209 177 219 / 29%);
+    border-radius: 10rem;
+}
+
+.styleImage{
+    width: 110%;
+    height: 25rem;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
+    max-width: 100%;
+    padding: 0;
+}
+
+.cardImage{
+    height: 100%;
+    width: 100%;
+}
+
+.max-card{
+    height: 15rem;
+    width: 15rem;
+}
+
+.subTitle{
+    text-align: left;
+    line-height: 2rem;
+}
+
+.ms-6{
+    margin-left: 6rem;
+}

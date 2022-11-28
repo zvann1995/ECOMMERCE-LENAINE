@@ -1,0 +1,41 @@
+#navbar #dopdown-header {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar #dopdown-header {
+    font-size: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+.bg-primary {
+    background-color: rgb(37 30 61) !important;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff !important;
+    --bs-btn-bg: #4e4166 !important;
+    --bs-btn-border-color: #d3d3d300 !important;
+    --bs-btn-hover-color: #fff !important;
+    --bs-btn-hover-bg: #4b3259 !important;
+    --bs-btn-hover-border-color: #0a58ca00 !important;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253 !important;
+    --bs-btn-active-color: #fff !important;
+    --bs-btn-active-bg: #3d205e !important;
+    --bs-btn-active-border-color: #0a53be00 !important;
+}
+
+.navbar-collaps {
+    margin-left: 35rem !important;
+    text-align: right !important;
+}
+
+.me-6 {
+    margin-right: 5rem !important;
+}
+.transColor:hover{
+    color: rgb(255, 213, 249);
+}
